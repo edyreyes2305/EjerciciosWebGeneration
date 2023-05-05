@@ -56,8 +56,8 @@ const calcular = () => {
                 break;
             case 7:
                 resultadoFecha.innerHTML = "Tu dia es: Domingo";
-                resultado.innerHTML = "El dia no es laborable";
                 resultado.style.color = "red";
+                resultado.innerHTML = "El dia no es laborable";
                 break;
             default:
                 alert("Dato invalido");

@@ -1,5 +1,6 @@
 .borde {
     border: solid black;
+    background-color: antiquewhite;
 }
 
 .boton {
@@ -9,7 +10,7 @@
 .resultado { 
     font-family: 'Vina Sans', cursive;
     font-size: 30px;
-    color:green;
+    color:blue;
 }
 
 .resultadoFecha {
