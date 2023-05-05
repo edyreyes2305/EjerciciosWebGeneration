@@ -1,0 +1,19 @@
+.borde {
+    border: solid black;
+}
+
+.boton {
+    max-width: 200px;
+}
+
+.resultado { 
+    font-family: 'Vina Sans', cursive;
+    font-size: 30px;
+    color:green;
+}
+
+.resultadoFecha {
+    font-family: 'Vina Sans', cursive;
+    font-size: 20px;
+    color:dodgerblue;
+}
